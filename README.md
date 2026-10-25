@@ -14,4 +14,4 @@ In my spare time I run a self-hosted homelab and build small hardware, data and 
 - [marketdata-pipeline](https://github.com/robinw0410/marketdata-pipeline): crypto market data pipeline and backtesting framework, with verified live collection and a locked holdout
 
 **Links**
-[Website](https://robinwilliamkreindl.com) · [LinkedIn](https://www.linkedin.com/in/robin-william-kreindl/))
+[Website](https://robinwilliamkreindl.com) · [LinkedIn](https://www.linkedin.com/in/robin-william-kreindl/)
